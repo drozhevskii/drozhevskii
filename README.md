@@ -1,4 +1,4 @@
-+ 🎓 Graduated with M.S. in Applied Data Science
++ 🎓 Graduated with B.S in Computational Data Science and M.S. in Applied Data Science
 + 💪 Expert in classic ML algorithms for Big Data.
 + 🔥 Have cutting-edge research experience in NLP
 
