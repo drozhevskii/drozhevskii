@@ -4,4 +4,4 @@
 
 Check out my [website](https://danilarzh.wixsite.com/rozhevskii-ms) with my academic blog, publications, and portfolio.
 
-[![Danila's GitHub stats](https://github-readme-stats.vercel.app/api?username=drozhevskii)](https://github.com/drozhevskii/github-readme-stats)
+
