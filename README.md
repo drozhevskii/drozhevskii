@@ -1,5 +1,5 @@
 + 🎓 Ph.D. student in Computer Science
-      Graduated with B.S in Computational Data Science and M.S. in Applied Data Science
++ 🎓 Graduated with B.S in Computational Data Science and M.S. in Applied Data Science
 + 💪 Expert in classic ML algorithms for Big Data, experienced with DL.
 + 🔥 Have cutting-edge research experience in NLP
 
