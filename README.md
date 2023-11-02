@@ -1,7 +1,7 @@
 + 🎓 Ph.D. student in Computer Science
 + 🎓 Graduated with B.S in Computational Data Science and M.S. in Applied Data Science
 + 💪 Expert in classic ML algorithms for Big Data, experienced with DL.
-+ 🔥 Have cutting-edge research experience in NLP
++ 🔥 Have cutting-edge research experience in NLP and ML security.
 
 Check out my [website](https://danilarzh.wixsite.com/rozhevskii-ms) with my academic blog, publications, and portfolio.
 
